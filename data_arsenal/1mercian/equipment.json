@@ -13,6 +13,7 @@
   "KAT_Katmin",
   "KAT_STS",
   "MineDetector",
+  "SCM_PVS31_C_LC_WP",
   "TFAR_anprc148jem",
   "TFAR_anprc152",
   "TFAR_anprc154",
@@ -24,6 +25,6 @@
   "tsp_breach_popper_mag",
   "tsp_breach_silhouette_mag",
   "tsp_breach_stick_mag",
-  "UK3CB_BAF_HMNVS",
+  "UK3CB_BAF_Javelin_CLU",
   "UK3CB_BAF_Soflam_Laserdesignator"
 ]
